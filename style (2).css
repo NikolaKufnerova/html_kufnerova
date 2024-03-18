@@ -1,0 +1,67 @@
+a{
+    color: black;
+    text-align: center;
+}
+img{
+    height: 300px;
+    width:auto;
+}
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+header[title=clanek1]{
+    margin-left: 20%;
+    margin-right: 20%;
+    outline-width: 2px;
+    outline-color: black;
+    outline-style: solid;
+    background-color: rgb(187, 152, 109);
+}
+article[title=clanek1]{
+    margin-left: 25%;
+    margin-right: 25%;
+    outline-width: 2px;
+    outline-color: black;
+    outline-style: solid;
+    background-color: rgb(187, 152, 109);
+}
+header[title=clanek2]{
+    margin-left: 20%;
+    margin-right: 20%;
+    outline-width: 2px;
+    outline-color: blanchedalmond;
+    outline-style: solid;
+    background-color: black;
+    color:blanchedalmond
+}
+article[title=clanek2]{
+    margin-left: 25%;
+    margin-right: 25%;
+    outline-width: 2px;
+    outline-color: blanchedalmond;
+    outline-style: solid;
+    background-color: black;
+    color:blanchedalmond;
+}
+header[title=clanek3]{
+    margin-left: 20%;
+    margin-right: 20%;
+    outline-width: 2px;
+    outline-color: black;
+    outline-style: solid;
+    background-color: rgb(187, 152, 109);
+}
+article[title=clanek3]{
+    margin-left: 25%;
+    margin-right: 25%;
+    outline-width: 2px;
+    outline-color: blanchedalmond;
+    outline-style: solid;
+    background-color: black;
+    color:blanchedalmond;
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+}
