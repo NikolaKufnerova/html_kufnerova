@@ -33,7 +33,8 @@ header[title=clanek2]{
     outline-color: blanchedalmond;
     outline-style: solid;
     background-color: black;
-    color:blanchedalmond
+    color:blanchedalmond;
+    font-size: 25px;
 }
 article[title=clanek2]{
     margin-left: 25%;
@@ -43,6 +44,7 @@ article[title=clanek2]{
     outline-style: solid;
     background-color: black;
     color:blanchedalmond;
+    font-size: 25px;
 }
 header[title=clanek3]{
     margin-left: 20%;
